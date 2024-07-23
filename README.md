@@ -6,7 +6,7 @@ This project aims to analyze sales and customer data to gain insights into sales
 
 ## Dashboards
 
-https://github.com/CodeWithGauravRajput/Sales-Project/blob/main/Sales%20%26%20Customer%20Dashboards.twbx
+![customer_dashboard](https://github.com/CodeWithGauravRajput/Sales-Project/blob/main/Screenshot%202024-07-23%20105943.png)
 
 
 
