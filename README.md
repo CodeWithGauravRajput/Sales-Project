@@ -4,7 +4,9 @@
 
 This project aims to analyze sales and customer data to gain insights into sales performance, customer behavior, and product trends. The analysis is conducted using Tableau for visualization and reporting.
 
-## Dashboard
+## Dashboards
+
+https://github.com/CodeWithGauravRajput/Sales-Project/blob/main/Sales%20%26%20Customer%20Dashboards.twbx
 
 
 
