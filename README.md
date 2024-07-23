@@ -8,6 +8,8 @@ This project aims to analyze sales and customer data to gain insights into sales
 
 ![customer_dashboard](https://github.com/CodeWithGauravRajput/Sales-Project/blob/main/Screenshot%202024-07-23%20105943.png)
 
+![Sales Dashboard](https://github.com/CodeWithGauravRajput/Sales-Project/blob/main/Screenshot%202024-07-23%20105955.png)
+
 
 
 ## Objectives
